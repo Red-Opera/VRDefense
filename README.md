@@ -16,13 +16,17 @@
     </li> 
     <li>
         <h3>Development Stack</h3>
-        <p>개발 도구 : <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></p>
-        <p>개발 언어 : <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/></p>
+        <p>개발 도구 : 
+            <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>  
+            <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></p>
+        <p>개발 언어 : 
+            <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/> </p>
     </li>
     <li>
         <h3>Development Period</h3>
-        <p>시작 일자 : 2023.03.27</p>
-        <p>총 개발 기간 : 6달</p>
+        <p>시작 일자 : 2023.06.18</p>
+        <p>총 개발 기간 : 5달</p>
     </li>
     <li>
         <h3>Development Member</h3>
@@ -30,7 +34,7 @@
     </li>
     <li>
         <h3>Target Platform</h3>
-        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
         <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat&logo=oculus&logoColor=white"/>
     </li>
 </ul>
